@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Cristina+%F0%9F%91%8B;PhD+Candidate+%40+UAM;Open+Science+%7C+Single-Case+Designs;Bayesian+%26+Multilevel+Modeling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Cris+%F0%9F%91%8B;PhD+Candidate+%40+UAM;Open+Science+%7C+Single-Case+Designs;Bayesian+%26+Multilevel+Modeling" alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 I'm a PhD candidate (investigadora predoctoral) at the **Department of Social Psychology and Methodology, Universidad Autónoma de Madrid**, supervised by Ricardo Olmos and José Ángel Martínez-Huertas.
 
-My doctoral research aims **multilevel models** (frequentist & Bayesian) to integrate process-outcome research in Psychology through **single-case experimental designs**.
+My doctoral research aims **multilevel models** to integrate process-outcome research in Psychology through **single-case experimental designs**.
 
-I'm passionate about **open science**, reproducibility, and making research a truly collective endeavour — because *science does not happen on its own; it must be made.*
+I'm passionate about **open science**, reproducibility, and making research a truly collective endeavour — because *science does not happen on its own; it must be made ("la ciencia no se hace sola, hay que hacerla").*
 
 ---
 
