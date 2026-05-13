@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Cris+%F0%9F%91%8B;PhD+Candidate+%40+UAM;Open+Science+%7C+Single-Case+Designs;Bayesian+%26+Multilevel+Modeling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B1A2E&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Cris+%F0%9F%91%8B;PhD+Candidate+%40+UAM;Open+Science+%7C+Single-Case+Designs;Bayesian+%26+Multilevel+Modeling" alt="Typing SVG" />
 
 <br/>
 
@@ -16,9 +16,12 @@
 
 I'm a PhD candidate (investigadora predoctoral) at the **Department of Social Psychology and Methodology, Universidad Autónoma de Madrid**, supervised by Ricardo Olmos and José Ángel Martínez-Huertas.
 
-My doctoral research aims **multilevel models** to integrate process-outcome research in Psychology through **single-case experimental designs**.
+My doctoral research aims to **multilevel models** to integrate process-outcome research in Psychology through **single-case experimental designs**. More broadly, I do **methodological work** and I have a deep love for **behavior analysis** 🐀
+ 
+Over the years I've worked across different areas: **myths in Psychology**, **metascience**, and **mental health epidemiology**.
 
-I'm passionate about **open science**, reproducibility, and making research a truly collective endeavour — because *science does not happen on its own; it must be made ("la ciencia no se hace sola, hay que hacerla").*
+I'm an active member of [**Federación de Jóvenes Investigadores Precarios (FJI)**](https://fji.precarios.org/) and [**Dignidad Investigadora Madrid**](https://dignimad.wordpress.com), advocating for better working conditions in research.
+
 
 ---
 
@@ -41,17 +44,6 @@ I'm passionate about **open science**, reproducibility, and making research a tr
 - 🧠 [Myths in psychology: psychological misconceptions among Spanish psychology students](https://doi.org/10.7717/peerj.13811) — *PeerJ* (2022)
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristrinaranjus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristrinaranjus&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📬 Get in touch
 
 [![UAM email](https://img.shields.io/badge/cristina.rodriguezp@uam.es-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cristina.rodriguezp@uam.es)
@@ -62,9 +54,6 @@ I'm passionate about **open science**, reproducibility, and making research a tr
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
 -->
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Cristrinaranjus&color=7C3AED&style=flat-square" alt="Profile views" />
-</div>
 
 <!--
 **Cristrinaranjus/Cristrinaranjus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
