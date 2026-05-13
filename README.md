@@ -54,6 +54,7 @@ I'm an active member of [**Federación de Jóvenes Investigadores Precarios (FJI
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
 -->
 
+<sub>✨ This README was crafted with the help of <a href="https://claude.ai">Claude</a> (Anthropic's AI), Sonnet 4.6.</sub>
 
 <!--
 **Cristrinaranjus/Cristrinaranjus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
